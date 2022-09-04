@@ -3,3 +3,4 @@ fingerprint
 schoolsecurity
 this are the requirements of the interface
 lock
+adding password

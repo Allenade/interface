@@ -1,8 +1,9 @@
 interface and lock
-
+money for everything
 face Id 
 fingerprint
 schoolsecurity
 this are the requirements of the interface
 lock
 adding password
+adding money

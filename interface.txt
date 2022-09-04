@@ -1,0 +1,4 @@
+face Id 
+fingerprint
+schoolsecurity
+this are the requirements of the interface

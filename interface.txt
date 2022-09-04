@@ -1,5 +1,5 @@
 interface and lock
-
+money for everything
 face Id 
 fingerprint
 schoolsecurity
@@ -7,3 +7,4 @@ this are the requirements of the interface
 indio
 lock
 adding password
+adding money
